@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="Canal 6" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ 6_de_costa_rica-mediano.png" group-title="COSTA RICA",CANAL 6 REPRETEL SD
+#EXTINF:-1 tvg-id="https://www.gatotv.com/canal/6_de_costa_rica" tvg-name="Canal 6" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ 6_de_costa_rica-mediano.png" group-title="COSTA RICA",CANAL 6 REPRETEL SD
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.cr" tvg-name="Canal 4" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ 4_de_costa_rica-mediano.png" group-title="COSTA RICA",CANAL 4 REPRETEL
