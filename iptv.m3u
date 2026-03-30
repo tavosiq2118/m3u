@@ -1,90 +1,153 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="https://www.gatotv.com/canal/6_de_costa_rica" tvg-name="Canal 6" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ 6_de_costa_rica-mediano.png" group-title="COSTA RICA",CANAL 6 REPRETEL SD
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
+La Ley Del Monte group-title="CINE DE ORO MEXICANO",La Ley Del Monte
+https://ia803109.us.archive.org/3/items/videoplayback_20211216_2303/videoplayback.mp4
+#Porky's Revenge (1985)
+https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://i.imgur.com/4hnOzaz.png",Vacaciones en Acapulco (1977)
+https://ia801502.us.archive.org/3/items/elchavo_201709/El Chavo del 8 - Vacaciones en Acapulco.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg",La Presidenta Municipal (1975)
+https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La India Maria La Presidenta Municipal.mp4
+#EXTINF:-1 group-title="1969" tvg-logo="https://imgur.com/dM4R0r1.jpg",El Libro de Piedra (1969)
+https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el libro de piedra.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/kpaLtXk.jpg",Caperucita y Pulgarcito Contra los Monstruos (1960)
+https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita y pulgarcito contra los lobos.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg",El Dolor de Pagar la Renta (1960)
+https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA EL DOLOR DE  PAGAR LA RENTA.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/U9RiSMD.jpg",Macario (1960)
+https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg",Angelitos del Trapecio (1959)
+https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos de trapecio.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/e4BzmDB.jpg",Yo Soy Muy Macho (1953)
+https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo Soy Muy Macho - Silvia Pinal.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/gVCnp2P.jpg",El Bello Durmiente (1952)
+https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin Tan, El Bello Durmiente.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://pics.filmaffinity.com/Ac_las_tortas-914464527-large.jpg",Aca las Tortas (1951)
+https://ia801500.us.archive.org/22/items/AcaLasTortas/aca las tortas.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/OOGQjcp.jpg",Simbad el Mareado (1950)
+https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad el mareado.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/lzZMzXw.jpg",La Familia Perez (1949)
+https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La familia Perez.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://i.pinimg.com/736x/55/28/90/55289097b4c3f039f619362357ecdbdc--watches.jpg",Una Familia de Tantas (1949)
+https://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA FAMILIA DE TANTAS.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/JzyYqis.jpg",Los Tres Huastecos (1948)
+https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los tres huaztecos.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/aOy8B0T.jpg",Nosotros - los Pobres (1948)
+https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros los pobres.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/9ZOU6Hq.jpg",Si Adelita se Fuera con Otro (1948)
+https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si Adelita Se Fuera Con Otro.mp4
+#EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://imgur.com/3S8RST5.jpg",Ustedes - los Ricos (1948)
+https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
+#EXTINF:-1 group-title="PELICULAS ESPAÑOL" tvg-logo="http://127.0.0.1/",(DOUBTFUL) Hotel Transylvania 3: Monstruos de vacaciones (2018)
+https://dl.dropbox.com/s/dil6ejok46zdbry/Hotel.transylvania.3.summer.vacation.2018.1080p-dual-lat-cinecalidad.to.mp4
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1  tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",The Cloverfield Paradox |
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1  tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus | R
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg",Deadpool |
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg",Intensamente |
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW VIII |
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",Redada Asesina |
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1  tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 ,ESTRENOS: Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+#EXTINF:-1 ,ESTRENOS: THE MINE (2017)
+http://bit.ly/THEMINE
+#EXTINF:-1 ,M2O TV Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 ,VOD FREE: EL MAL DENTRO 2017
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 ,VOD FREE: LA MINA
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+#EXTINF:-1 ,VOD FREE: MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+#EXTINF:-1 ,VOD FREE: SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 ,Kurt Cobain: Montage of Heck
+https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+#EXTINF:-1 ,La Forma del Agua SUBTITULADO |
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:-1 ,La Fuerza De La Ilusion |
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 ,Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 ,Varias Lat:Volver al Futuro III
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 ,VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 ,Cuando nos Conocimos | .
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 ,The Cloverfield Paradox | .
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 ,Terminus | .
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1 ,Deadpool | .
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 ,Intensamente | .
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 ,JIGSAW VIII | .
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 ,Redada Asesina | .
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 ,SAW VIII SUBTITULADO | .
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg",Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1  tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",The Cloverfield Paradox |
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1  tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",Terminus | R
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg",Deadpool |
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg",Intensamente |
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW VIII |
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg",Redada Asesina |
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1  tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg",SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 ,VOD FREE: EL MAL DENTRO 2017
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+#EXTINF:-1 ,VOD FREE: LA MINA
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+#EXTINF:-1 ,VOD FREE: MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+#EXTINF:-1 ,VOD FREE: SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+#EXTINF:-1 ,Kurt Cobain: Montage of Heck
+https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+#EXTINF:-1 ,La Forma del Agua SUBTITULADO |
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:-1 ,La Fuerza De La Ilusion |
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:-1 ,Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:-1 ,Varias Lat:Volver al Futuro III
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 ,VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:-1 ,BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+#EXTINF:-1 ,Cuando nos Conocimos | .
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:-1 ,The Cloverfield Paradox | .
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:-1 ,Terminus | .
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:-1 ,Deadpool | .
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:-1 ,Intensamente | .
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:-1 ,JIGSAW VIII | .
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:-1 ,Redada Asesina | .
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:-1 ,SAW VIII SUBTITULADO | .
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
-#EXTINF:-1 tvg-id="Canal4.cr" tvg-name="Canal 4" tvg-language="Español" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ 4_de_costa_rica-mediano.png" group-title="COSTA RICA",CANAL 4 REPRETEL
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/480p.m3u8
-
-#EXTINF:-1 tvg-id="Canal11.cr" tvg-name="Canal 11" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/ a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="COSTA RICA",CANAL 11 REPRETEL SD
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/480p.m3u8
-
-#EXTINF:-1 tvg-id="Canal2.cr" tvg-name="Canal 2" tvg-language="Español" tvg-logo="https://i.imgur.com/M8UyGHL.png" grupo- title="COSTA RICA",CANAL 2 CDR HD
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/original.m3u8
-
-#EXTINF:-1 tvg-id="Trivision36.cr" tvg-name="Trivision 36" tvg-language="Español" tvg-logo="https://trivisioncr.com/wp-content/uploads/2024/03/LOGOWEB400x100.png" grupo- title="COSTA RICA",Trivision 36
-https://rtmp.info/trivision36/envivo/chunklist_w2041923464.m3u8
-
-#EXTINF:-1 tvg-id="TeleUno.cr" tvg-name="Tele Uno" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016 /06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080" group-title="COSTA RICA",TELEUNO
-https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w258842420.m3u8
-
-#EXTINF:-1 tvg-id="Canal8.cr" tvg-name="Canal 8" tvg-language="Español" tvg-logo="https://i.imgur.com/nefPi2Y.png" grupo- title="COSTA RICA",CANAL MULTIMEDIOS 8SD
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-#EXTINF:-1 tvg-id="TDtv.cr" tvg-name="TDtv" tvg-language="Español" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" grupo- title="COSTA RICA",Turrialba Digital Televisión
-http://190.7.192.164:8007/play/s23
-
-#EXTINF:-1 tvg-id="TVPLUS" tvg-name="CANAL TVPLUS" tvg-language="Español" logo="https://lh3.googleusercontent.com/LJTn7hx5i9OxMueAnkhZwrwTx6jCyluksZ4Z5mZF-UGPepA20M9atE71EqEVSMzfTyQJxg=s151" group-title= "COSTA RICA",FUTV
-http://45.190.187.226:58092/play/a00q
-
-#EXTINF:0 type="stream" channelId="-1" group="Costa Rica" logo="https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png" group-title="COSTA RICA" , URBANO
-http://190.7.192.164:8001/play/s50
-
-#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-name="Colosal TV" tvg-language="Español" tvg-logo="https://i.imgur.com/4kxxSCq.png" grupo- title="COSTA RICA",COLOSAL TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-country="CR" tvg-language="Español" tvg-logo="https://i.imgur.com /E9AuhOU.png" tvg-url="" group-title="COSTA RICA",Extrema TV (720p)
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telesistema.cr" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png" group-title="COSTA RICA", Telesistema
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-name="TeleSUR Costa Rica" tvg-language="Español" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" grupo -title="COSTA RICA",TELESUR
-https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Humor247.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/HqbgrSF.png" group-title="COSTA RICA",HUMOR 24/7
-https://srv.panelcast.net/humor247/humor247/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/l1oc3ER.png" group-title="COSTA RICA",VIDEO CANAL TURÍSTICO
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="COSTA RICA",COSTA RICA| SARAPIQUI TV
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal Extra TV 42 de Costa Rica" tvg-name="Canal Extra TV 42 de Costa Rica" tvg-language="Español" tvg-logo="https://imagenes.gatotv .com/logos/canales/oscuros/extra_tv-mediano.png" group-title="COSTA RICA",EXTRA TV 42
-http://190.7.192.163:8001/play/s4
-
-#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-language="Español" tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png" grupo- title="COSTA RICA",NICOYA TV
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="COSTA RICA",AGROTENDENCIA TV
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w218075326.m3u8
-
-#EXTINF:-1 tvg-id="Canal38.cr" tvg-country="CR" tvg-language="Español" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019 /10/cropped-Logo-Nuevo-400.jpg" group-title="COSTA RICA",CANAL 38 ESTÉREO
-https://rtmp.info/canal38/envivo/chunks.m3u8
-
-#EXTINF:-1 tvg-id="3ABNLatino.us" tvg-name="3ABN Latino" tvg-language="Español" tvg-logo="https://cdn.mitvstatic.com/channels/hn_3abn-latino_m. png" group-title="RELIGIOSOS TV",3ABN Latino
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-
-#EXTINF:-1 tvg-id="88Stereo.cr" tvg-country="CR" tvg-language="Español" tvg-logo="https://hosttec.online/wp-content/uploads/2020/03 /img1920.jpg" group-title="COSTA RICA",88 ESTÉREO
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telefides.cr" tvg-name="TELEFIDES" tvg-language="Español" tvg-logo="https://sicultura-live.s3.amazonaws.com/public/media /telefides_canal_40_1.png" group-title="RELIGIOSOS TV",TELEFIDES
-https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telefides.cr" tvg-name="TELEFIDES" tvg-language="Español" tvg-logo="https://sicultura-live.s3.amazonaws.com/public/media /telefides_canal_40_1.png" group-title="RELIGIOSOS TV",TELEFIDES 2
-https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-language="Español" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" grupo- title="RELIGIOSOS TV", Monte María
-https://616eee1852d6c.streamlock.net/live/myStream_360p/chunklist_w1203170895.m3u8
-
-#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1 /1d/Enlace_Televisi%C3%B3n_logo.svg/512px-Enlace_Televisi%C3%B3n_logo.svg.png" group-title="RELIGIOSOS TV",ENLACE JUVENIL
-https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
-
-#EXTINF:0 tvg-id="UNIVERSIDAD UCR" tvg-name="UNIVERSIDAD UCR" tvg-language="Español" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/ 06/Canal-15-UCR-en-vivo-Online-218x150.png" group-title="COSTA RICA",QUINCE UCR
-http://163.178.170.127:1935/quinceucr/quinceucr/chunklist_w1234502234.m3u8
-
-#EXTINF:-1 tvg-id="TVN14HD.cr" tvg-logo="https://i.imgur.com/C4bINFw.png" group-title="COSTA RICA",TVN 14 HD
-http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-language="Español" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="COSTA RICA",TV Sur Canal 9
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
