@@ -1,6 +1,8 @@
-La Ley Del Monte group-title="CINE DE ORO MEXICANO",La Ley Del Monte
+#EXTM3U
+
+#EXTINF:-1 group-title="CINE DE ORO MEXICANO",La Ley Del Monte
 https://ia803109.us.archive.org/3/items/videoplayback_20211216_2303/videoplayback.mp4
-#Porky's Revenge (1985)
+#EXTINF:-1 group-title="VOD CINE CLASICO",Porky's Revenge (1985)
 https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
 #EXTINF:-1 group-title="VOD CINE CLASICO" tvg-logo="https://i.imgur.com/4hnOzaz.png",Vacaciones en Acapulco (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El Chavo del 8 - Vacaciones en Acapulco.mp4
@@ -150,4 +152,3 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:-1 ,SAW VIII SUBTITULADO | .
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
-
